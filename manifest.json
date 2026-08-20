@@ -1,0 +1,18 @@
+{
+  "name": "F-BOX Gestión de Clases",
+  "short_name": "F-BOX",
+  "description": "Gestión de clases y socios F-Box Gym",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1214",
+  "theme_color": "#00d4e8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230e1214'/><text y='75' x='10' font-size='70' font-family='Arial Black' fill='%2300d4e8' font-weight='900'>F</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
